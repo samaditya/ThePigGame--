@@ -1,3 +1,2 @@
 # ThePigGame
- 
-js
+ https://samaditya.github.io/thepigame/
